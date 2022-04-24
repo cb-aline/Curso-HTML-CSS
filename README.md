@@ -1,11 +1,11 @@
 # CURSO: INTRODUÇÃO AO HTML5 E CSS3
 
-###INFO
-- Curso DIO - Phillips BootCamp;
+**INFO**
+- Curso DIO - Philips Bootcamp;
 - Profº: Lucas Vilaboim;
 
 
-###ARQUIVOS:
+**ARQUIVOS**
  -- HTML-CSS (anotações);
  -- Site.html (código);
  -- syle.css (customização do código);
